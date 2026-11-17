@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+# Nunca subir grabaciones ni transcripciones de clases (datos de docentes y compañeros)
+entrada/*
+!entrada/.gitkeep
+transcripciones/*
+!transcripciones/.gitkeep
+*.mp3
+*.m4a
+*.wav
+*.ogg
+*.opus
+*.flac
+*.aac
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.jsonl
